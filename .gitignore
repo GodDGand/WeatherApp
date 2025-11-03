@@ -1,0 +1,17 @@
+# Qt Creator
+*.pro.user
+*.qrc.user
+*.autosave
+
+# Папки сборки
+build-*
+*.o
+*.obj
+*.exe
+*.dll
+*.so
+*.a
+*.lib
+
+# Mac
+.DS_Store
